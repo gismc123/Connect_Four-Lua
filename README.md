@@ -1,4 +1,4 @@
-#### README for Connect Four Game in Lua
+# README for Connect Four Game in Lua
 
 ---
 
